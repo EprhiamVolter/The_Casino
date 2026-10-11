@@ -1,0 +1,257 @@
+Original cards of physical game (spanish):
+
+/-------
+Cartas:
+/-------
+#ERROR*:
+	Si te pasaste este turno, avanza 6 casillas
+Trucar juego:
+	Aumenta en 2 el máximo de tu tirada este turno (el premio sigue siendo 10 o más)
+Apuesta:
+	Si jugaste esta carta antes de empezar tu tirada, obtienes el doble de premios
+Trueque:
+	Dale una carta a otro jugador, el deberá darte 2 cartas (puede ser la que le diste)
+¡Combo!:
+	Avanza 3 casillas por cada otra carta que hayas jugado este turno
+Perdición:
+	Si un jugador tiene exactamente 7 en su tirada, acaba su turno
+Terremoto:
+	Todos los demás jugadores tiran un dado y retroceden la cantidad que obtuvieron
+Videncia
+	Todos los jugadores te muestran sus cartas en secreto
+Secretaria de Broadway:
+	Si jugaste otras 3 cartas este turno, roba 2 cartas
+Embargo:
+	Un jugador sin cartas retrocede 10 casillas
+Az en la manga:
+	Si esta es la ultima carta en tu mano, avanza 7 casillas
+Albedrío:
+	Antes de conseguir un premio, elige entre las primeras 3 opciones
+¡Feliz cumpleaños!:
+	Si tienes otras 6 cartas obtiene un premio
+Escaleras:
+	Todos los jugadores en casilleros pares avanzan 8 casillas
+Serpientes:
+	Todos los jugadores en casilleros impares retroceden 7 casillas
+Robo al casino:
+	Todos los jugadores obtienen un premio
+Agotado:
+	Nadie puede obtener premios hasta tu próximo turno
+Pase libre:
+	Avanza 4 casillas
+Enchufe:
+	Añade 2 a tu tirada
+Tragaperras:
+	Tira el dado, avanza esa cantidad de casillas
+Tarjeta Amarilla:
+	Si jugaste otra tarjeta amarilla este turno, un jugador retrocede 29 casillas
+Mala leche:
+	Arrastra a un jugador a tu posición, despues retrocede 6 casillas
+Seda el paso:
+	Ningún jugador puede jugar cartas hasta tu proximo turno
+Vacaciones:
+	Ningún jugador puede robar cartas hasta tu proximo turno
+Rebobinar:
+	Reduce en 1 el resultado de tu tirada, incluse si te pasaste (pudiendo anular el pasarse)
+Muro de hielo portatil:
+	Hasta tu próximo turno, cualquier jugador que fuera a alcanzarte se quedea una casilla atras de ti
+Envidia:
+	Todos los jugadores con mas cartas que tu antes de jugar esta, descartan 2 cartas
+Confiscar:
+	Anula el efecto de otra carta
+Cuidador de cementerio:
+	Toma la carta de encima de la pila de descartes
+Limite de velocidad:
+	Hasta tu proximo turno los jugadores no pueden avanzar mas de 5 casillas
+Reciclaje:
+	Roba una carta
+Sacrifico a C'thulhu:
+	Descarta otras 2 cartas para obtener un premio
+
+/-------
+Premios:
+/-------
+Pase VIP:
+	Mueve a un jugador a la casilla 57
+Auto 0km:
+	Avanze 13 casillas
+La caja de Mi-Go:
+	Teletransportate a la posición de otro jugador, o roba 2 cartas
+Avaricia:
+	Los demás jugadores restroceden 5 casillas por cada carta en su mano
+Combinado Inestable:
+	Juega inmediatamente las primeras 4 cartas del mazo en ese orden
+Colisionador Temporal:
+	Juega otro turno
+Tres deseos:
+	Roba 3 cartas
+Bancarrota:
+	Los demás jugadores descartan 3 cartas
+Guantes de ladron:
+	Roba dos cartas de otro jugador (tu las eliges sin verlas)
+Tarjeta Roja:
+	Un jugador retrocede 29 casillas
+Festin:
+	Los demás jugadores roban 2 cartas, tu robas 5 cartas
+
+
+/-------	
+English translation:
+/-------
+
+
+/-------
+Cards:
+/-------
+#ERROR*:
+    If you failed a spin this turn, move forward 6 spaces
+Cheat game:
+	Increase your maximum spin by 2 this turn (the prize is still 10 or more)
+Bet:
+	If you played this card before starting your spin, you get double the prizes on settle
+Trade:
+	Give a card to another player; they must give you 2 cards (it can be the one you gave them)
+Combo!:
+	Move forward 3 cells for every other card you've played this turn
+Doom:
+	If another player rolls exactly 7, their turn ends
+Earthquake:
+	All other players roll a die and move back the number they rolled
+Clairvoyance:
+	All players secretly show you their hands
+Broadway Secretary:
+	If you played 3 other cards this turn, draw 2 cards
+Expropriation:
+	A player with no cards moves back 10 spaces
+Ace up your sleeve:
+	If this is the last card in your hand, move forward 7 spaces
+Free will:
+	Before claiming a prize, choose from the first 3 options
+Happy Birthday!:
+	If you have 6 other cards, win a prize
+Snakes:
+	All players on odd numbered cells move back 7 cells
+Ladders:
+	All players on even numbered spaces move forward 8 cells
+Casino heist:
+	All players win a prize
+Sold Out:
+	No one can win prizes until your next turn
+Free pass:
+	Move forward 4 cells
+Plug:
+	Add 2 to your spin
+Slot machine:
+	Roll the dice; move forward that many spaces
+Yellow card:
+	If you played another yellow card this turn, one player moves back 29 cells
+Bad blood [Bad milk]:
+	Drag a player to your position, then move back 6 cells
+Yield sign:
+	No player may play cards until your next turn
+Vacation:
+	No player may draw cards until your next turn
+Rewind:
+	Reduce the result of your spin by 1, even if you spinned over (which may cancel out spinning over)
+Portable Ice Wall:
+	Until your next turn, any player who would catch up to yuo remains one space behind you
+Envy:
+	All players with more cards than you before playing this card must discard 2 cards
+Confiscate:
+	Cancels the effect of another card
+Graveyard Keeper:
+	Take the top card from the discar pile
+Speed Limit:
+	Until your next turn, players cannot move more that 5 spaces at a time
+Recycle:
+    Draw a card
+Sacrifice to C'thulhu:
+    Discard 2 other cards to receive a prize
+
+
+/-------
+Prizes:
+/-------
+VIP pass:
+	Move a player to cell 57
+0 km car:
+	move forward 13 cells
+Mi-Go's box:
+	Teleport to another player's position or draw 2 cards
+Greed:
+	The other players move back 5 cells for each card in their hand
+Unstable concoction:
+	Immediately play the top 4 cards of the deck in that order
+Temporal Collider:
+	Play another turn
+Three Wishes:
+	Draw 3 cards
+Bankruptcy:
+	The other players discard 3 cards
+Thief's gloves:
+	Steal 2 cards from another player (you choose them without looking)
+Red card:
+	A player moves back 29 cells
+Feast:
+	The other players draw 2 cards; you draw 5 cards.
+	
+/-------	
+Sorted names
+/-------
+
+Ace up your sleeve
+Bad blood
+Bet
+Broadway Secretary
+Casino heist
+Cheat game
+Clairvoyance
+Combo!
+Confiscate
+Doom
+Earthquake
+Envy
+Error
+Expropriation
+Free pass
+Free will
+Graveyard Keeper
+Happy Birthday!
+Ladders
+Plug
+Portable Ice Wall
+Recycle
+Rewind
+Sacrifice to C'thulhu
+Slot machine
+Snakes
+Sold Out
+Speed Limit
+Trade
+Vacation
+Yellow card
+Yield sign
+
+Bankruptcy
+Feast
+Greed
+Mi-Go's box
+Red card
+Temporal Collider
+Thief's gloves
+Three Wishes
+Unstable concoction
+VIP pass
+Zero km car
+
+/-------	
+History
+/-------
+
+This file seems good enough to state some sort of "version history"
+From what I remember, "Envy" was the 30th card. then I had made 10 prizes and 30 cards. I wanted to have 32 cards becouse 2^5
+I noticed there where to many disadvantages to having a lot of cards (I was thinking mainly of "Greed" and "Bankruptcy").
+So "Happy birthday" went from 7 other cards to 6 and I added "Expropiation", to also punish having no cards.
+Then for the 32nd card I thought of cards playing more cards and made "Casino heist", which also made me think of "Unstable concoction".
+With 32 cards and 11 prizes now I made the physical game and tested it for the first time.
+We played with a lot of players (like 9) and it went pretty bad. But at a later date I tried with only 3 and it worked ok enough.
